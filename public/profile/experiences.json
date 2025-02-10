@@ -1,0 +1,23 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "dhvani analytic intelligence private limited",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            ],
+            "dateText": "04/2022 – 12/2023"
+        },
+        {
+            "title": "Reservation Executive",
+            "subtitle": "NTL India Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on Senior Reservation Executive."
+            ],
+            "dateText": "03/2018 – 04/2020"
+        }
+    ]
+}

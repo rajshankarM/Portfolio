@@ -1,0 +1,146 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/portfolio1.jpg",
+            "title": "Ecommerce",
+            "bodyText": "This ECommerce App is developed by Using ReactJs as frontEnd and NodeJS, MongoDB as Backend",
+            "links": [
+                {
+                    "text": "Frontend",
+                    "href": "https://github.com/rajshankarM/Ecommerce-Frontend"
+                },
+                {
+                    "text": "Backend",
+                    "href": "https://github.com/rajshankarM/Ecommerce-Backend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://ecommerce-devshan-app.netlify.app/register"
+                }
+            ],
+            "tags": [
+                "React",
+                "JavaScript",
+                "BootStrap",
+                "MaterialUI",
+                "NodeJs"
+            ]
+        },
+        {
+            "image": "images/projects/portfolio2.jpg",
+            "title": "Booking App",
+            "bodyText": "This Booking App is designed and developed by technology like ReactJs as front-end, NodeJs as backend and mongo dB as database This particular project is using react-router-Dom and MaterialUI in Front-end and Using Axios, cors, express, mongoose and nodemon in Back-end",
+            "links": [
+                {
+                    "text": "Frontend",
+                    "href": "https://github.com/rajshankarM/Room-Booking-Frontend"
+                },
+                {
+                    "text": "Backend",
+                    "href": "https://github.com/rajshankarM/Booking-Backend-Api"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://devshan-booking-app.netlify.app/"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "ReactJs",
+                "BootStrap",
+                "MaterialUI",
+                "NodeJs"
+            ]
+        },
+        {
+            "image": "images/projects/portfolio3.png",
+            "title": "Chat App",
+            "bodyText": "This Chat Application developed by using ReactJs as a FrontEnd and NodeJS as a BackEnd This Particular Project is using react-router-dom,SocketIo package in frontend and using express,cors and nodemon package in backend.",
+            "links": [
+                {
+                    "text": "Frontend",
+                    "href": "https://github.com/rajshankarM/chat-frontend"
+                },
+                {
+                    "text": "Backend",
+                    "href": "https://github.com/rajshankarM/server"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://shanchat.netlify.app/"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "ReactJs",
+                "NodeJs",
+                "MangoDb"
+            ]
+        },
+        {
+            "title": "Blog App",
+            "bodyText": "The Blog App developed by using ReactJs in frontend nodejs and mongoDb in backend.This particular Project is using to add our own blogs.",
+            "links": [
+                {
+                    "text": "Frontend",
+                    "href": "https://github.com/rajshankarM/blog-frontend"
+                },
+                {
+                    "text": " Backend",
+                    "href": "https://github.com/rajshankarM/blog-backend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://blog-devshan.netlify.app/"
+                }
+            ],
+            "tags": [
+                "JavaScript",
+                "ReactJs",
+                "SocketIO",
+                "NodeJs",
+                "MangoBd"
+            ]
+        },
+        {
+            "title": "Igenie",
+            "bodyText": "Iam working on the iGenieproject as a frontend developer. This is an internal projectthat consists of four platforms, exclusively developed for the NDT community..",
+            "tags": [
+                "JavaScript",
+                "ReactJs",
+                "Bootstrap",
+                "MaterialUI",
+                "ExpressJs",
+                "NodeJs",
+                "MangoDb"
+            ]
+        },
+        {
+            "title": "Sieger",
+            "bodyText": "Iam working on the Sieger project as a frontenddeveloper. The projectutilizes React.js and incorporates the usage of Material-Ul and Bootstrap. The primary objectiveof this project is to identify defects and captureimages.",
+            "tags": [
+                "JavaScript",
+                "ReactJs",
+                "Bootstrap",
+                "MaterialUI",
+                "ExpressJs",
+                "NodeJs",
+                "MangoDb"
+            ]
+        },
+        {
+            "title": "CRUD",
+            "bodyText": "Crud Operations Project with TODO list",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rajshankarM/Javascript-CRUD"
+                }
+            ],
+            "tags": [
+                "Javascript",
+                "ReactJs"
+            ]
+        }
+    ]
+}
